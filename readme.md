@@ -19,3 +19,5 @@ F1 score - a combination of Recall and Precision
 Regression is a task when a model attempts to predict continuous values.  For example, attempting to predict the price of a house given its features is a regression task
 
 Attempting to predict the country a house is in given its features would be a classification task
+
+In statistics, regression toward (or to) the mean is the phenomenon that arises if a random variable is extreme on its first or first few measurements but closer to the mean or average on further measurements
