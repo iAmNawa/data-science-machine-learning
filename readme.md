@@ -21,3 +21,5 @@ Regression is a task when a model attempts to predict continuous values.  For ex
 Attempting to predict the country a house is in given its features would be a classification task
 
 In statistics, regression toward (or to) the mean is the phenomenon that arises if a random variable is extreme on its first or first few measurements but closer to the mean or average on further measurements
+
+Least squares method, which is fitted by minimizing the sum of squares of the residuals
