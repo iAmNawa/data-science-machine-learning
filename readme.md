@@ -34,5 +34,8 @@ Root Mean Squared Error is the square root of the mean of the squared errors
 ## Confusion Matrix
 True positive - Predicted true, actual is true  
 True negative - Predicted false, actual is false  
-False Positive - Predicted true, actual is false
-False negative - Predcted false, actual is true
+False Positive - Predicted true, actual is false - type 1 error
+False negative - Predcted false, actual is true - type 2 error  
+
+Accuracy - How often is it correct? from 0-1  
+Misclassification rate - How often is the model wrong
