@@ -28,3 +28,11 @@ Least squares method, which is fitted by minimizing the sum of squares of the re
 Mean absolute error is the mean of the absolute value of the errors  
 Mean squared error is the mean of the squared errors
 Root Mean Squared Error is the square root of the mean of the squared errors
+
+# Logistic Regression
+
+## Confusion Matrix
+True positive - Predicted true, actual is true  
+True negative - Predicted false, actual is false  
+False Positive - Predicted true, actual is false
+False negative - Predcted false, actual is true
