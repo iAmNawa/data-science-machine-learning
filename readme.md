@@ -23,3 +23,8 @@ Attempting to predict the country a house is in given its features would be a cl
 In statistics, regression toward (or to) the mean is the phenomenon that arises if a random variable is extreme on its first or first few measurements but closer to the mean or average on further measurements
 
 Least squares method, which is fitted by minimizing the sum of squares of the residuals
+
+## Regression Evaluation Metrics
+Mean absolute error is the mean of the absolute value of the errors  
+Mean squared error is the mean of the squared errors
+Root Mean Squared Error is the square root of the mean of the squared errors
