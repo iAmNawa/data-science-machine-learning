@@ -43,5 +43,6 @@ Misclassification rate - How often is the model wrong
 # Neural Network
 
 Input layer - first layer that directly accepts real data values  
-Hidden layer - any layer between input and output layers
+Hidden layer - any layer between input and output layers  
 output layer - final estimate of the output
+Deep neural network - multiple hidden layers
