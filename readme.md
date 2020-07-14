@@ -39,3 +39,9 @@ False negative - Predcted false, actual is true - type 2 error
 
 Accuracy - How often is it correct? from 0-1  
 Misclassification rate - How often is the model wrong
+
+# Neural Network
+
+Input layer - first layer that directly accepts real data values  
+Hidden layer - any layer between input and output layers
+output layer - final estimate of the output
