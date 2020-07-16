@@ -46,3 +46,7 @@ Input layer - first layer that directly accepts real data values
 Hidden layer - any layer between input and output layers  
 output layer - final estimate of the output
 Deep neural network - multiple hidden layers
+
+# spaCy
+
+Tokens are the basic building blocks of a Doc object - everything that helps us understand the meaning of the text is derived from tokens and their relationship to one another
