@@ -50,3 +50,10 @@ Deep neural network - multiple hidden layers
 # spaCy
 
 Tokens are the basic building blocks of a Doc object - everything that helps us understand the meaning of the text is derived from tokens and their relationship to one another
+
+## Stemming
+spaCy does not include stemming by design.  It favors lemmatization.
+
+stemming - stemming is the process of reducing inflected (or sometimes derived) words to their word stem, base or root form—generally a written word form   
+
+lemmatization - In lemmatization, the transformation uses a dictionary to map different variants of a word back to its root format.
